@@ -32,6 +32,8 @@ JWT_SECRET="test"
 
 
 ------------------------------------------------------
+Install dependency: npm install
 
-For bulding the project : npm run build
+For bulding the project: npm run build
+
 Run the project using : npm run start
